@@ -241,6 +241,6 @@ Rencana pemecahan notebook menjadi paket Python (`src/`) ada di [`docs/limitatio
 ## 👤 Penulis
 
 **Alif Rachmansyah Muhammad** — calon AI Engineer
-[LinkedIn](https://linkedin.com/in/<alifrmuhammad>) · [GitHub](https://github.com/<rachman-alif>) · <alif.rachmansyah.m@gmail.com>
+[LinkedIn](https://linkedin.com/in/alifrmuhammad) · [GitHub](https://github.com/rachman-alif) · alif.rachmansyah.m@gmail.com
 
 *Dibuat sebagai proyek tugas besar AI Engineer Track (LLM + RAG, model open source).*
